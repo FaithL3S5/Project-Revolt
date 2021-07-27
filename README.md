@@ -1,2 +1,2 @@
 # Project-Revolt
-Script for Gameloft game competition
+All Code Script that i code for Gameloft game competition
