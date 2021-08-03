@@ -1,5 +1,6 @@
-# Project-Revolt
+# Project-Revolt-SourceCode
 
-All Code Script that i code as a main programmer for Gameloft game competition 
+https://github.com/Farishanif works on this code is astonishing, really made me proud
+though I also concurrently work as programmer, Faris's labor far outshine mine
 
-#still contain some bug and some fitur still not complete
+#still contain some bug and some feature still not properly implemented
